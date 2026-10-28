@@ -22,6 +22,7 @@ The single **Preview Tracer Light** `F5` configuration loads every contributed t
 - **Tracer Light — Gruber**
 - **Tracer Light — Lobster**
 - **Tracer Dark**
+- **Tracer Dark — Pale**
 - **Tracer Dark — Lobster**
 
 The light variants inherit the core Tracer Light layout and black chrome, then replace buttons, interaction accents, selections, brackets, diagnostics, Git colors, terminal colors, and syntax colors.
@@ -29,6 +30,8 @@ The light variants inherit the core Tracer Light layout and black chrome, then r
 Lobster adapts the installed ChatGPT desktop app’s dark-only Lobster palette to Tracer Light: coral keywords, teal strings, amber constants, blue types, and green functions. Syntax colors are darkened for contrast on the light editor; black chrome is inherited from the base theme.
 
 **Tracer Dark — Lobster** inherits Tracer Dark’s surfaces and layout, with the original Lobster coral, teal, amber, blue, and green syntax colors. Coral accents carry through selections, buttons, and badges; chrome stays pure black, borders use Claude Dark’s warm neutrals, and focus outlines stay transparent. Semantic highlighting uses the same Lobster palette.
+
+**Tracer Dark** uses Tracer Light’s syntax and accent colors on dark surfaces, with lighter neutral variable text for readability. **Tracer Dark — Pale** preserves the original pastel dark palette. All dark variants retain GitHub Sharp Dark comma and semicolon colors.
 
 ## Useful theme-development commands
 
@@ -44,7 +47,8 @@ themes/tracer-light-rescript-color-theme.json ReScript-inspired variant
 themes/tracer-light-deepdark-material-color-theme.json Material-inspired variant
 themes/tracer-light-gruber-color-theme.json Gruber-inspired variant
 themes/tracer-light-lobster-color-theme.json Lobster-inspired variant
-themes/tracer-dark-color-theme.json  Secondary dark variant
+themes/tracer-dark-color-theme.json  Primary dark theme using Tracer Light colors
+themes/tracer-dark-pale-color-theme.json Original pastel dark palette
 themes/tracer-dark-lobster-color-theme.json Lobster-inspired dark variant
 docs/theme-palette.svg              Numbered visual palette reference
 .vscode/launch.json                  F5 Development Host configuration

@@ -49,6 +49,11 @@
         "path": "./themes/tracer-dark-color-theme.json"
       },
       {
+        "label": "Tracer Dark — Pale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tracer-dark-pale-color-theme.json"
+      },
+      {
         "label": "Tracer Dark — Lobster",
         "uiTheme": "vs-dark",
         "path": "./themes/tracer-dark-lobster-color-theme.json"

@@ -171,7 +171,7 @@
     "panelTitle.activeForeground": "#E5EBF0",
     "panelTitle.inactiveForeground": "#77838E",
     "terminal.foreground": "#E4E4E7",
-    "terminal.background": "#151A21",
+    "terminal.background": "#090808E7",
     "terminalCursor.foreground": "#FF7070",
     "terminal.ansiBlack": "#303842",
     "terminal.ansiRed": "#FF5C5C",
@@ -358,6 +358,19 @@
       "settings": {
         "foreground": "#E4E4E7",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "GitHub Sharp Dark commas and semicolons",
+      "scope": [
+        "punctuation.separator.comma",
+        "punctuation.separator.parameter",
+        "punctuation.separator.semicolon",
+        "punctuation.terminator.statement",
+        "punctuation.terminator.semicolon"
+      ],
+      "settings": {
+        "foreground": "#C3C6C9"
       }
     }
   ],
