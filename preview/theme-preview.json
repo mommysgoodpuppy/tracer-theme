@@ -1,0 +1,11 @@
+{
+  "theme": "Tracer Light",
+  "enabled": true,
+  "palette": {
+    "accent": "#39C5CF",
+    "success": "#7BD88F",
+    "warning": "#FFC66D",
+    "error": "#FF6B72"
+  },
+  "samples": [1, 1.5, 42, null]
+}

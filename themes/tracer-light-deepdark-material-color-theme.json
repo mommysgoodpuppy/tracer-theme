@@ -1,0 +1,125 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Tracer Light — Deepdark Material",
+  "include": "./tracer-light-color-theme.json",
+  "type": "light",
+  "semanticHighlighting": false,
+  "colors": {
+    "tab.activeBorderTop": "#F3C900",
+    "activityBar.foreground": "#F3C900",
+    "activityBar.activeBorder": "#F3C900",
+    "statusBarItem.remoteHoverForeground": "#000000",
+    "statusBarItem.remoteHoverBackground": "#F3C900",
+    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteBackground": "#F3C900",
+    "button.background": "#007EBB",
+    "button.hoverBackground": "#006C9F",
+    "button.secondaryBackground": "#DDF2F5",
+    "button.secondaryForeground": "#24525A",
+    "button.secondaryHoverBackground": "#CBE8EC",
+    "activityBarBadge.background": "#F3C900",
+    "activityBarBadge.foreground": "#000000",
+    "badge.background": "#F3C900",
+    "badge.foreground": "#000000",
+    "progressBar.background": "#00A4F3",
+    "list.activeSelectionBackground": "#D5EEF7",
+    "list.inactiveSelectionBackground": "#E6F3F6",
+    "list.hoverBackground": "#EDF6F7",
+    "list.highlightForeground": "#006D9F",
+    "editor.selectionBackground": "#CBE9F2",
+    "editor.inactiveSelectionBackground": "#E0EFF2",
+    "editor.selectionHighlightBackground": "#D6EDF199",
+    "editor.findMatchBackground": "#A8DCAE99",
+    "editor.findMatchHighlightBackground": "#CDE9D180",
+    "editorCursor.foreground": "#007EBB",
+    "editorBracketHighlight.foreground1": "#007EBB",
+    "editorBracketHighlight.foreground2": "#6B4BA1",
+    "editorBracketHighlight.foreground3": "#A37300",
+    "editorBracketHighlight.foreground4": "#16865A",
+    "editorBracketHighlight.foreground5": "#C43C4B",
+    "editorBracketHighlight.foreground6": "#86537E",
+    "editorGutter.addedBackground": "#00A878",
+    "editorGutter.modifiedBackground": "#C49F00",
+    "editorGutter.deletedBackground": "#D62A47",
+    "editorError.foreground": "#C92F43",
+    "editorWarning.foreground": "#9B7600",
+    "editorInfo.foreground": "#007EBB",
+    "gitDecoration.addedResourceForeground": "#00885F",
+    "gitDecoration.modifiedResourceForeground": "#987800",
+    "gitDecoration.deletedResourceForeground": "#C92F43",
+    "gitDecoration.renamedResourceForeground": "#6B4BA1",
+    "gitDecoration.untrackedResourceForeground": "#00885F",
+    "notificationLink.foreground": "#007EBB",
+    "terminal.ansiRed": "#D62A47",
+    "terminal.ansiGreen": "#00885F",
+    "terminal.ansiYellow": "#987800",
+    "terminal.ansiBlue": "#007EBB",
+    "terminal.ansiMagenta": "#6B4BA1",
+    "terminal.ansiCyan": "#008B91"
+  },
+  "tokenColors": [
+    {
+      "name": "Deepdark comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#767676" }
+    },
+    {
+      "name": "Deepdark strings",
+      "scope": ["string.quoted", "string"],
+      "settings": { "foreground": "#16865A" }
+    },
+    {
+      "name": "Deepdark numbers",
+      "scope": "constant.numeric",
+      "settings": { "foreground": "#5B6570" }
+    },
+    {
+      "name": "Deepdark language constants",
+      "scope": "constant.language",
+      "settings": { "foreground": "#C92F43" }
+    },
+    {
+      "name": "Deepdark control flow",
+      "scope": "keyword.control",
+      "settings": { "foreground": "#6B4BA1" }
+    },
+    {
+      "name": "Deepdark storage",
+      "scope": ["storage", "storage.type"],
+      "settings": { "foreground": "#8C7000" }
+    },
+    {
+      "name": "Deepdark classes",
+      "scope": ["entity.name.class", "entity.name.type", "variable.parameter"],
+      "settings": { "foreground": "#C43C4B" }
+    },
+    {
+      "name": "Deepdark functions",
+      "scope": ["entity.name.function", "support.function", "variable.function"],
+      "settings": { "foreground": "#007F7A" }
+    },
+    {
+      "name": "Deepdark invoked functions",
+      "scope": ["variable.function", "meta.function-call entity.name.function", "meta.method-call entity.name.function"],
+      "settings": { "foreground": "#A65325" }
+    },
+    {
+      "name": "Deepdark operators",
+      "scope": "keyword.operator",
+      "settings": { "foreground": "#C43C4B" }
+    }
+  ],
+  "semanticTokenColors": {
+    "type": "#C43C4B",
+    "class": "#C43C4B",
+    "interface": "#C43C4B",
+    "enum": "#C43C4B",
+    "function": "#007F7A",
+    "method": "#A65325",
+    "keyword": "#6B4BA1",
+    "string": "#16865A",
+    "number": "#5B6570",
+    "parameter": "#C43C4B",
+    "operator": "#C43C4B"
+  }
+}

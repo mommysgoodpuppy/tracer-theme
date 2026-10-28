@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">Tracer Light theme palette</title>
+  <desc id="description">Thirteen numbered key colors with hexadecimal values and usage references.</desc>
+
+  <rect width="1200" height="720" fill="#FAFBFB"/>
+  <rect x="24" y="24" width="1152" height="672" fill="none" stroke="#000000" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#34414A">
+    <text x="48" y="70" font-size="28" font-weight="700">TRACER LIGHT — KEY COLOR MAP</text>
+    <text x="48" y="101" font-size="15">Use the stable label in requests, e.g. “change KEYCOLOR#4 to #00AABB”.</text>
+  </g>
+
+  <!-- Left column -->
+  <g transform="translate(48 128)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#000000" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#1  #000000</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Outer chrome + all borders</text>
+  </g>
+
+  <g transform="translate(48 204)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#FAFBFB" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#2  #FAFBFB</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Canvas · editor / active tab</text>
+  </g>
+
+  <g transform="translate(48 280)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#34414A" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#3  #34414A</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Primary text · editor / variables / terminal</text>
+  </g>
+
+  <g transform="translate(48 356)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#087F8C" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#4  #087F8C</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Accent · buttons / progress / information</text>
+  </g>
+
+  <g transform="translate(48 432)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#415AED" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#5  #415AED</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · types / classes / interfaces</text>
+  </g>
+
+  <g transform="translate(48 508)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#E4893F" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#6  #E4893F</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · functions / methods / decorators</text>
+  </g>
+
+  <g transform="translate(48 584)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#ED4141" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#7  #ED4141</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · keywords / storage / macros</text>
+  </g>
+
+  <!-- Right column -->
+  <g transform="translate(612 128)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#96B63D" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#8  #96B63D</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · built-in variables</text>
+  </g>
+
+  <g transform="translate(612 204)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#B49C64" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#9  #B49C64</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · quoted strings</text>
+  </g>
+
+  <g transform="translate(612 280)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#CBC0FF" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#10  #CBC0FF</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · decimal numbers</text>
+  </g>
+
+  <g transform="translate(612 356)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#78858B" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#11  #78858B</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · comments</text>
+  </g>
+
+  <g transform="translate(612 432)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#32699F" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#12  #32699F</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Syntax · properties</text>
+  </g>
+
+  <g transform="translate(612 508)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="540" height="68" fill="#FFFFFF" stroke="#000000"/>
+    <rect x="12" y="12" width="52" height="44" fill="#C23B47" stroke="#000000"/>
+    <text x="78" y="28" font-size="16" font-weight="700" fill="#34414A">KEYCOLOR#13  #C23B47</text>
+    <text x="78" y="50" font-size="13" fill="#687680">Diagnostics · errors / destructive states</text>
+  </g>
+</svg>

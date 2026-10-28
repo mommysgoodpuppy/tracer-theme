@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Tracer Dark — Lobster",
+  "editor.semanticHighlighting.enabled": "configuredByTheme",
+  "[typescript]": {
+    "editor.semanticHighlighting.enabled": "configuredByTheme"
+  },
+  "[typescriptreact]": {
+    "editor.semanticHighlighting.enabled": "configuredByTheme"
+  },
+  "[javascript]": {
+    "editor.semanticHighlighting.enabled": "configuredByTheme"
+  },
+  "[javascriptreact]": {
+    "editor.semanticHighlighting.enabled": "configuredByTheme"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
+  "editor.renderWhitespace": "boundary",
+  "workbench.tree.indent": 16
+}

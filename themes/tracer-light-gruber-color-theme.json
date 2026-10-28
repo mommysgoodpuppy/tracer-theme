@@ -1,0 +1,115 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Tracer Light — Gruber",
+  "include": "./tracer-light-color-theme.json",
+  "type": "light",
+  "semanticHighlighting": false,
+  "colors": {
+    "tab.activeBorderTop": "#EBC800",
+    "activityBar.foreground": "#EBC800",
+    "activityBar.activeBorder": "#EBC800",
+    "statusBarItem.remoteHoverForeground": "#000000",
+    "statusBarItem.remoteHoverBackground": "#EBC800",
+    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteBackground": "#EBC800",
+    "button.background": "#A38700",
+    "button.hoverBackground": "#8A7300",
+    "button.secondaryBackground": "#EEF3D9",
+    "button.secondaryForeground": "#4B570F",
+    "button.secondaryHoverBackground": "#E0E9BC",
+    "activityBarBadge.background": "#EBC800",
+    "activityBarBadge.foreground": "#000000",
+    "badge.background": "#EBC800",
+    "badge.foreground": "#000000",
+    "progressBar.background": "#EBC800",
+    "list.activeSelectionBackground": "#EBF3D6",
+    "list.inactiveSelectionBackground": "#F2F5E5",
+    "list.hoverBackground": "#F5F7EB",
+    "list.highlightForeground": "#756300",
+    "editor.selectionBackground": "#E1EDC5",
+    "editor.inactiveSelectionBackground": "#EDF2DF",
+    "editor.selectionHighlightBackground": "#E8F0D399",
+    "editor.findMatchBackground": "#F0D84A99",
+    "editor.findMatchHighlightBackground": "#F2E89A80",
+    "editorCursor.foreground": "#000000",
+    "editorBracketHighlight.foreground1": "#9C8300",
+    "editorBracketHighlight.foreground2": "#4D8E1C",
+    "editorBracketHighlight.foreground3": "#007E98",
+    "editorBracketHighlight.foreground4": "#6E6598",
+    "editorBracketHighlight.foreground5": "#B43B45",
+    "editorBracketHighlight.foreground6": "#5B6570",
+    "editorGutter.addedBackground": "#4A9823",
+    "editorGutter.modifiedBackground": "#3D65D4",
+    "editorGutter.deletedBackground": "#C03943",
+    "editorError.foreground": "#C03943",
+    "editorWarning.foreground": "#8A7300",
+    "editorInfo.foreground": "#007E98",
+    "gitDecoration.addedResourceForeground": "#397D19",
+    "gitDecoration.modifiedResourceForeground": "#3157BC",
+    "gitDecoration.deletedResourceForeground": "#C03943",
+    "gitDecoration.renamedResourceForeground": "#6E6598",
+    "gitDecoration.untrackedResourceForeground": "#397D19",
+    "notificationLink.foreground": "#007E98",
+    "terminal.ansiRed": "#C03943",
+    "terminal.ansiGreen": "#397D19",
+    "terminal.ansiYellow": "#8A7300",
+    "terminal.ansiBlue": "#3157BC",
+    "terminal.ansiMagenta": "#6E6598",
+    "terminal.ansiCyan": "#007E98"
+  },
+  "tokenColors": [
+    {
+      "name": "Gruber comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#6B6B6B", "fontStyle": "italic" }
+    },
+    {
+      "name": "Gruber keywords",
+      "scope": ["keyword.control", "keyword.other", "keyword.operator.new", "storage.modifier", "storage.type"],
+      "settings": { "foreground": "#8A7300", "fontStyle": "bold" }
+    },
+    {
+      "name": "Gruber operators",
+      "scope": ["keyword.operator", "entity.name.type.primitive", "entity.name.type.numeric", "storage.type.primitive"],
+      "settings": { "foreground": "#8A7300" }
+    },
+    {
+      "name": "Gruber strings",
+      "scope": "string",
+      "settings": { "foreground": "#397D19" }
+    },
+    {
+      "name": "Gruber constants",
+      "scope": ["constant", "variable.other.constant"],
+      "settings": { "foreground": "#6E6598" }
+    },
+    {
+      "name": "Gruber functions",
+      "scope": ["entity.name.function", "support.function", "variable.function"],
+      "settings": { "foreground": "#007E98" }
+    },
+    {
+      "name": "Gruber types",
+      "scope": ["entity.name.type", "entity.other.inherited-class", "support.type"],
+      "settings": { "foreground": "#34414A", "fontStyle": "underline" }
+    },
+    {
+      "name": "Gruber metaprogramming",
+      "scope": ["meta.attribute", "meta.macro", "support.function.macro"],
+      "settings": { "foreground": "#007E98" }
+    }
+  ],
+  "semanticTokenColors": {
+    "type": { "foreground": "#34414A", "underline": true },
+    "class": { "foreground": "#34414A", "underline": true },
+    "interface": { "foreground": "#34414A", "underline": true },
+    "enum": { "foreground": "#34414A", "underline": true },
+    "function": "#007E98",
+    "method": "#007E98",
+    "keyword": { "foreground": "#8A7300", "bold": true },
+    "string": "#397D19",
+    "number": "#6E6598",
+    "enumMember": "#6E6598",
+    "macro": "#007E98"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Tracer Light — Lobster",
+  "include": "./tracer-light-color-theme.json",
+  "type": "light",
+  "semanticHighlighting": false,
+  "colors": {
+    "tab.activeBorderTop": "#FF5C5C",
+    "activityBar.foreground": "#FF5C5C",
+    "activityBar.activeBorder": "#FF5C5C",
+    "statusBarItem.remoteHoverForeground": "#000000",
+    "statusBarItem.remoteHoverBackground": "#FF5C5C",
+    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteBackground": "#FF5C5C",
+    "button.background": "#C73838",
+    "button.hoverBackground": "#B52F36",
+    "button.secondaryBackground": "#FCE8E6",
+    "button.secondaryForeground": "#8F252B",
+    "button.secondaryHoverBackground": "#F7D4D1",
+    "activityBarBadge.background": "#FF5C5C",
+    "activityBarBadge.foreground": "#000000",
+    "badge.background": "#FF5C5C",
+    "badge.foreground": "#000000",
+    "progressBar.background": "#FF5C5C",
+    "list.activeSelectionBackground": "#FADBD8",
+    "list.inactiveSelectionBackground": "#F8E9E7",
+    "list.hoverBackground": "#FCF0EE",
+    "list.highlightForeground": "#B52F36",
+    "editor.selectionBackground": "#F5CFCC",
+    "editor.inactiveSelectionBackground": "#F7E3E1",
+    "editor.selectionHighlightBackground": "#F5DAD899",
+    "editor.findMatchBackground": "#F5B85B99",
+    "editor.findMatchHighlightBackground": "#F8DCA880",
+    "editorCursor.foreground": "#000000",
+    "editorBracketHighlight.foreground1": "#B52F36",
+    "editorBracketHighlight.foreground2": "#16803C",
+    "editorBracketHighlight.foreground3": "#0F766E",
+    "editorBracketHighlight.foreground4": "#A46207",
+    "editorBracketHighlight.foreground5": "#B52F36",
+    "editorBracketHighlight.foreground6": "#52525B",
+    "editorGutter.addedBackground": "#16803C",
+    "editorGutter.modifiedBackground": "#2563C4",
+    "editorGutter.deletedBackground": "#C73838",
+    "editorError.foreground": "#C73838",
+    "editorWarning.foreground": "#B52F36",
+    "editorInfo.foreground": "#0F766E",
+    "gitDecoration.addedResourceForeground": "#16803C",
+    "gitDecoration.modifiedResourceForeground": "#2563C4",
+    "gitDecoration.deletedResourceForeground": "#C73838",
+    "gitDecoration.renamedResourceForeground": "#A46207",
+    "gitDecoration.untrackedResourceForeground": "#16803C",
+    "notificationLink.foreground": "#0F766E",
+    "terminal.ansiRed": "#C73838",
+    "terminal.ansiGreen": "#16803C",
+    "terminal.ansiYellow": "#B52F36",
+    "terminal.ansiBlue": "#2563C4",
+    "terminal.ansiMagenta": "#A46207",
+    "terminal.ansiCyan": "#0F766E"
+  },
+  "tokenColors": [
+    {
+      "name": "Lobster comments",
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#71717A",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Lobster keywords",
+      "scope": [
+        "keyword.control",
+        "keyword.other",
+        "keyword.operator.new",
+        "storage.modifier",
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#B52F36"
+      }
+    },
+    {
+      "name": "Lobster operators",
+      "scope": [
+        "keyword.operator",
+        "entity.name.type.primitive",
+        "entity.name.type.numeric",
+        "storage.type.primitive"
+      ],
+      "settings": {
+        "foreground": "#C13E45"
+      }
+    },
+    {
+      "name": "Lobster strings",
+      "scope": "string",
+      "settings": {
+        "foreground": "#0F766E"
+      }
+    },
+    {
+      "name": "Lobster constants",
+      "scope": [
+        "constant",
+        "variable.other.constant"
+      ],
+      "settings": {
+        "foreground": "#A46207"
+      }
+    },
+    {
+      "name": "Lobster functions",
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "variable.function"
+      ],
+      "settings": {
+        "foreground": "#16803C"
+      }
+    },
+    {
+      "name": "Lobster types",
+      "scope": [
+        "entity.name.type",
+        "entity.other.inherited-class",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#2563C4"
+      }
+    },
+    {
+      "name": "Lobster metaprogramming",
+      "scope": [
+        "meta.attribute",
+        "meta.macro",
+        "support.function.macro"
+      ],
+      "settings": {
+        "foreground": "#0F766E"
+      }
+    }
+  ],
+  "semanticTokenColors": {
+    "type": "#2563C4",
+    "class": "#2563C4",
+    "interface": "#2563C4",
+    "enum": "#2563C4",
+    "function": "#16803C",
+    "method": "#16803C",
+    "keyword": "#B52F36",
+    "string": "#0F766E",
+    "number": "#A46207",
+    "enumMember": "#A46207",
+    "macro": "#0F766E"
+  }
+}

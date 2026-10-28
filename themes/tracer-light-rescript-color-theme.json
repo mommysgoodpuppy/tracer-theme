@@ -1,0 +1,109 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Tracer Light — ReScript",
+  "include": "./tracer-light-color-theme.json",
+  "type": "light",
+  "semanticHighlighting": false,
+  "colors": {
+    "tab.activeBorderTop": "#E6484F",
+    "activityBar.foreground": "#E6484F",
+    "activityBar.activeBorder": "#E6484F",
+    "statusBarItem.remoteHoverForeground": "#000000",
+    "statusBarItem.remoteHoverBackground": "#E6484F",
+    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteBackground": "#E6484F",
+    "button.background": "#E6484F",
+    "button.hoverBackground": "#D93C43",
+    "button.secondaryBackground": "#E8E8F7",
+    "button.secondaryForeground": "#3E4057",
+    "button.secondaryHoverBackground": "#DCDCF2",
+    "activityBarBadge.background": "#E6484F",
+    "badge.background": "#E6484F",
+    "badge.foreground": "#FFFFFF",
+    "progressBar.background": "#E6484F",
+    "list.activeSelectionBackground": "#E3E3F8",
+    "list.inactiveSelectionBackground": "#EEEFFA",
+    "list.hoverBackground": "#F3F3FA",
+    "list.highlightForeground": "#C9343C",
+    "editor.selectionBackground": "#DCDCF4",
+    "editor.inactiveSelectionBackground": "#EBEBF7",
+    "editor.selectionHighlightBackground": "#E5E5F699",
+    "editor.findMatchBackground": "#F4C96A99",
+    "editor.findMatchHighlightBackground": "#F4DDAA80",
+    "editorCursor.foreground": "#000000",
+    "editorBracketHighlight.foreground1": "#5E5EDE",
+    "editorBracketHighlight.foreground2": "#02A875",
+    "editorBracketHighlight.foreground3": "#B151DD",
+    "editorBracketHighlight.foreground4": "#DD8C1B",
+    "editorBracketHighlight.foreground5": "#E6484F",
+    "editorBracketHighlight.foreground6": "#376FDD",
+    "editorGutter.addedBackground": "#02A875",
+    "editorGutter.modifiedBackground": "#376FDD",
+    "editorGutter.deletedBackground": "#E6484F",
+    "editorError.foreground": "#E6484F",
+    "editorWarning.foreground": "#B46B00",
+    "editorInfo.foreground": "#376FDD",
+    "gitDecoration.addedResourceForeground": "#15835F",
+    "gitDecoration.modifiedResourceForeground": "#9A5D00",
+    "gitDecoration.deletedResourceForeground": "#C9343C",
+    "gitDecoration.renamedResourceForeground": "#8D3DB4",
+    "gitDecoration.untrackedResourceForeground": "#02A875",
+    "notificationLink.foreground": "#4B4BC4",
+    "terminal.ansiRed": "#E6484F",
+    "terminal.ansiGreen": "#02A875",
+    "terminal.ansiYellow": "#B46B00",
+    "terminal.ansiBlue": "#376FDD",
+    "terminal.ansiMagenta": "#B151DD",
+    "terminal.ansiCyan": "#007E73"
+  },
+  "tokenColors": [
+    {
+      "name": "ReScript comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#7C7F91", "fontStyle": "italic" }
+    },
+    {
+      "name": "ReScript keywords",
+      "scope": ["keyword", "storage", "storage.type", "storage.modifier"],
+      "settings": { "foreground": "#00865E" }
+    },
+    {
+      "name": "ReScript strings and constants",
+      "scope": ["string", "constant", "variable.other.constant"],
+      "settings": { "foreground": "#4C4CC6" }
+    },
+    {
+      "name": "ReScript functions",
+      "scope": ["entity.name.function", "support.function", "variable.function"],
+      "settings": { "foreground": "#285EC7" }
+    },
+    {
+      "name": "ReScript classes",
+      "scope": ["support.class", "entity.name.type.class", "entity.name.class"],
+      "settings": { "foreground": "#A45F00" }
+    },
+    {
+      "name": "ReScript types",
+      "scope": ["entity.name.type", "support.type", "entity.name.type.namespace"],
+      "settings": { "foreground": "#3E4057" }
+    },
+    {
+      "name": "ReScript operators",
+      "scope": ["keyword.operator.arithmetic", "keyword.operator.comparison", "keyword.operator.relational"],
+      "settings": { "foreground": "#963BC0" }
+    }
+  ],
+  "semanticTokenColors": {
+    "type": "#3E4057",
+    "class": "#A45F00",
+    "interface": "#3E4057",
+    "enum": "#3E4057",
+    "function": "#285EC7",
+    "method": "#285EC7",
+    "keyword": "#00865E",
+    "string": "#4C4CC6",
+    "enumMember": "#963BC0",
+    "variable.readonly": "#4C4CC6",
+    "variable.defaultLibrary": "#3E4057"
+  }
+}
