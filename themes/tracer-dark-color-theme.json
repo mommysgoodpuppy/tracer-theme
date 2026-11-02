@@ -531,7 +531,7 @@
     "regexp": "#A23E46",
     "operator": "#FF7070",
     "keyword": "#ED4141",
-    "variable.readonly": "#9A5B13",
+    "variable.readonly": "#B26F3A",
     "property.readonly": "#3B82F6",
     "function.declaration": {
       "foreground": "#E4893F",

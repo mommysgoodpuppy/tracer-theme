@@ -59,5 +59,21 @@
         "path": "./themes/tracer-dark-lobster-color-theme.json"
       }
     ]
+  },
+  "type": "theme",
+  "repository": "https://github.com/mommysgoodpuppy/tracer-theme",
+  "fresh": {
+    "themes": [
+      {
+        "file": "fresh/tracer-light.json",
+        "name": "tracer-light",
+        "variant": "light"
+      },
+      {
+        "file": "fresh/tracer-dark.json",
+        "name": "tracer-dark",
+        "variant": "dark"
+      }
+    ]
   }
 }
