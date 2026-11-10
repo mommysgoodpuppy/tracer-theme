@@ -34,7 +34,9 @@
     "after_eof_bg": [250, 251, 251],
     "diff_add_collision_fg": [44, 139, 87],
     "diff_remove_collision_fg": [194, 59, 71],
-    "diff_modify_collision_fg": [57, 121, 183]
+    "diff_modify_collision_fg": [57, 121, 183],
+    "current_line_number_fg": [82, 97, 106],
+    "gutter_separator_fg": [209, 215, 218]
   },
   "ui": {
     "tab_active_fg": [36, 50, 58],
@@ -115,7 +117,14 @@
     "file_status_deleted_fg": [185, 54, 66],
     "file_status_renamed_fg": [117, 80, 157],
     "file_status_untracked_fg": [0, 122, 134],
-    "file_status_conflicted_fg": [149, 96, 15]
+    "file_status_conflicted_fg": [149, 96, 15],
+    "file_explorer_bg": [241, 243, 243],
+    "file_explorer_fg": [67, 81, 90],
+    "file_explorer_directory_fg": [67, 81, 90],
+    "file_explorer_border_fg": [209, 215, 218],
+    "file_explorer_border_focused_fg": [209, 215, 218],
+    "file_explorer_indicator_fg": [101, 115, 125],
+    "tab_separator_fg": [209, 215, 218]
   },
   "search": {
     "match_bg": [249, 240, 215],
@@ -154,6 +163,9 @@
     "constant": [36, 41, 47],
     "operator": [255, 112, 112],
     "punctuation_bracket": [195, 198, 201],
-    "punctuation_delimiter": [79, 89, 99]
+    "punctuation_delimiter": [79, 89, 99],
+    "number": [36, 41, 47],
+    "property": [59, 130, 246],
+    "attribute": [228, 137, 63]
   }
 }

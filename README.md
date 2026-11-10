@@ -82,6 +82,12 @@ and the corresponding Tracer editor palette. Fresh has fewer syntax categories
 than VS Code, so per-scope rules and the readonly-variable modifier are mapped
 to its available categories.
 
+Both themes use Fresh's separate Explorer colors so ordinary folder names
+follow the sidebar palette independently of code keywords. They also set
+colors for the gutter separator, current line number, and the newer number,
+property, and attribute syntax categories. Older Fresh builds may fall back
+to their original colors for fields they do not recognize.
+
 ### Install from GitHub
 
 1. In Fresh, open the command palette and choose **Package: Install from URL**.
