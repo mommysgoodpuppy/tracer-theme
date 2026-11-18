@@ -120,11 +120,17 @@
     "file_status_conflicted_fg": [149, 96, 15],
     "file_explorer_bg": [241, 243, 243],
     "file_explorer_fg": [67, 81, 90],
+    "file_icon_fg": [67, 81, 90],
     "file_explorer_directory_fg": [67, 81, 90],
     "file_explorer_border_fg": [209, 215, 218],
     "file_explorer_border_focused_fg": [209, 215, 218],
     "file_explorer_indicator_fg": [101, 115, 125],
     "tab_separator_fg": [209, 215, 218]
+  },
+  "file_icons": {
+    "default": { "glyph": "\udb80\ude24" },
+    "folder": { "glyph": "\udb80\ude56" },
+    "folder_open": { "glyph": "\udb83\uddcf" }
   },
   "search": {
     "match_bg": [249, 240, 215],

@@ -1,0 +1,7 @@
+id = "tracer-theme"
+name = "Tracer Theme"
+version = "0.0.2"
+schema_version = 1
+authors = ["MommysGoodPuppy"]
+description = "Light and dark themes with orange and rust accents and black chrome."
+repository = "https://github.com/mommysgoodpuppy/tracer-theme"

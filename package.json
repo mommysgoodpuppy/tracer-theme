@@ -1,8 +1,8 @@
 {
   "name": "tracer-theme",
   "displayName": "Tracer Theme",
-  "description": "A family of sharp light and dark color themes for Visual Studio Code.",
-  "version": "0.0.1",
+  "description": "A high contrast orange and rusty theme",
+  "version": "0.0.2",
   "publisher": "local",
   "license": "MIT",
   "engines": {
@@ -24,39 +24,9 @@
         "path": "./themes/tracer-light-color-theme.json"
       },
       {
-        "label": "Tracer Light — ReScript",
-        "uiTheme": "vs",
-        "path": "./themes/tracer-light-rescript-color-theme.json"
-      },
-      {
-        "label": "Tracer Light — Deepdark Material",
-        "uiTheme": "vs",
-        "path": "./themes/tracer-light-deepdark-material-color-theme.json"
-      },
-      {
-        "label": "Tracer Light — Gruber",
-        "uiTheme": "vs",
-        "path": "./themes/tracer-light-gruber-color-theme.json"
-      },
-      {
-        "label": "Tracer Light — Lobster",
-        "uiTheme": "vs",
-        "path": "./themes/tracer-light-lobster-color-theme.json"
-      },
-      {
         "label": "Tracer Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/tracer-dark-color-theme.json"
-      },
-      {
-        "label": "Tracer Dark — Pale",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tracer-dark-pale-color-theme.json"
-      },
-      {
-        "label": "Tracer Dark — Lobster",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tracer-dark-lobster-color-theme.json"
       }
     ]
   },

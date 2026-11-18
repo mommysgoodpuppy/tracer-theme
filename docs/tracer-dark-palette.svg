@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1476" viewBox="0 0 1040 1476" role="img" aria-labelledby="title description">
+<title id="title">Tracer Dark palette reference</title>
+<desc id="description">Current interface and syntax colors generated from themes/tracer-dark-color-theme.json. Each swatch includes its source in a tooltip. Semantic colors and TextMate overrides are listed separately because language highlighting can differ.</desc>
+<rect width="1040" height="1476" fill="#1B2129"/>
+<g font-family="ui-monospace, Consolas, monospace" fill="#F1F5F8">
+<text x="36" y="52" font-size="30" font-weight="700">TRACER DARK</text>
+<text x="36" y="82" fill="#B1ADA1" font-size="14">themes/tracer-dark-color-theme.json</text>
+<text x="36" y="105" fill="#B1ADA1" font-size="13">Stable color IDs · hover a swatch for its JSON source</text>
+<text x="36" y="136" font-size="20" font-weight="700">Interface</text>
+<g transform="translate(36 156)">
+  <title>DARK#1 · colors.activityBar.background · #000000</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#000000" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Outer chrome</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#1 · #000000</text>
+</g>
+<g transform="translate(528 156)">
+  <title>DARK#2 · colors.editor.background · #1B2129</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#1B2129" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Editor background</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#2 · #1B2129</text>
+</g>
+<g transform="translate(36 234)">
+  <title>DARK#3 · colors.editor.foreground · #C8D1D9</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C8D1D9" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Editor text</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#3 · #C8D1D9</text>
+</g>
+<g transform="translate(528 234)">
+  <title>DARK#4 · colors.sideBar.background · #151A21</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#151A21" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Sidebar background</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#4 · #151A21</text>
+</g>
+<g transform="translate(36 312)">
+  <title>DARK#5 · colors.button.background · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Accent / buttons</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#5 · #E4893F</text>
+</g>
+<g transform="translate(528 312)">
+  <title>DARK#6 · colors.editor.selectionBackground · #593B25</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#593B25" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Selection</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#6 · #593B25</text>
+</g>
+<g transform="translate(36 390)">
+  <title>DARK#7 · colors.editor.lineHighlightBackground · #202730</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#202730" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Current line</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#7 · #202730</text>
+</g>
+<g transform="translate(528 390)">
+  <title>DARK#8 · colors.editorCursor.foreground · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Cursor</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#8 · #E4893F</text>
+</g>
+<g transform="translate(36 468)">
+  <title>DARK#9 · colors.editorError.foreground · #C23B47</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C23B47" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Error</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#9 · #C23B47</text>
+</g>
+<g transform="translate(528 468)">
+  <title>DARK#10 · colors.editorWarning.foreground · #A76B13</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#A76B13" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Warning</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#10 · #A76B13</text>
+</g>
+<g transform="translate(36 546)">
+  <title>DARK#11 · colors.editorInfo.foreground · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Information</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#11 · #E4893F</text>
+</g>
+<g transform="translate(528 546)">
+  <title>DARK#12 · colors.gitDecoration.addedResourceForeground · #247949</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#247949" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git added</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#12 · #247949</text>
+</g>
+<g transform="translate(36 624)">
+  <title>DARK#13 · colors.gitDecoration.modifiedResourceForeground · #3B82F6</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#3B82F6" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git modified</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#13 · #3B82F6</text>
+</g>
+<g transform="translate(528 624)">
+  <title>DARK#14 · colors.gitDecoration.deletedResourceForeground · #B93642</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#B93642" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git deleted</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#14 · #B93642</text>
+</g>
+<text x="36" y="732" font-size="20" font-weight="700">Semantic syntax</text>
+<g transform="translate(36 752)">
+  <title>DARK#15 · semanticTokenColors.comment · #78858B</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#78858B" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Comment</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#15 · #78858B</text>
+</g>
+<g transform="translate(528 752)">
+  <title>DARK#16 · semanticTokenColors.keyword · #ED4141</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#ED4141" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Keyword</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#16 · #ED4141</text>
+</g>
+<g transform="translate(36 830)">
+  <title>DARK#17 · semanticTokenColors.string · #387447</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#387447" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">String</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#17 · #387447</text>
+</g>
+<g transform="translate(528 830)">
+  <title>DARK#18 · semanticTokenColors.number · #FFFFFF</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#FFFFFF" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Number</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#18 · #FFFFFF</text>
+</g>
+<g transform="translate(36 908)">
+  <title>DARK#19 · semanticTokenColors.function · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Function</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#19 · #E4893F</text>
+</g>
+<g transform="translate(528 908)">
+  <title>DARK#20 · semanticTokenColors.type · #3B82F6</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#3B82F6" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Type</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#20 · #3B82F6</text>
+</g>
+<g transform="translate(36 986)">
+  <title>DARK#21 · semanticTokenColors.variable · #C8D1D9</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C8D1D9" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Variable</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#21 · #C8D1D9</text>
+</g>
+<g transform="translate(528 986)">
+  <title>DARK#22 · semanticTokenColors.variable.readonly · #B26F3A</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#B26F3A" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Readonly variable</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#22 · #B26F3A</text>
+</g>
+<g transform="translate(36 1064)">
+  <title>DARK#23 · semanticTokenColors.property · #3B82F6</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#3B82F6" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Property</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#23 · #3B82F6</text>
+</g>
+<g transform="translate(528 1064)">
+  <title>DARK#24 · semanticTokenColors.typeParameter · #9A5B13</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#9A5B13" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Type parameter</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#24 · #9A5B13</text>
+</g>
+<g transform="translate(36 1142)">
+  <title>DARK#25 · semanticTokenColors.operator · #FF7070</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#FF7070" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Operator</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#25 · #FF7070</text>
+</g>
+<g transform="translate(528 1142)">
+  <title>DARK#26 · semanticTokenColors.regexp · #A23E46</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#A23E46" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Regular expression</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#26 · #A23E46</text>
+</g>
+<text x="36" y="1250" font-size="20" font-weight="700">TextMate syntax overrides</text>
+<g transform="translate(36 1270)">
+  <title>DARK#27 · tokenColors.string.quoted · #B49C64</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#B49C64" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Quoted string</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#27 · #B49C64</text>
+</g>
+<g transform="translate(528 1270)">
+  <title>DARK#28 · tokenColors.support.variable · #96B63D</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#96B63D" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Built-in variable</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#28 · #96B63D</text>
+</g>
+<g transform="translate(36 1348)">
+  <title>DARK#29 · tokenColors.punctuation.section.block.begin · #C3C6C9</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C3C6C9" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Delimiter</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#29 · #C3C6C9</text>
+</g>
+<g transform="translate(528 1348)">
+  <title>DARK#30 · tokenColors.punctuation.separator.comma · #C3C6C9</title>
+  <rect width="472" height="66" rx="8" fill="#24211D" stroke="#4B443B"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C3C6C9" stroke="#4B443B"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Comma / semicolon</text>
+  <text x="68" y="49" fill="#B1ADA1" font-size="13">DARK#30 · #C3C6C9</text>
+</g>
+</g>
+</svg>

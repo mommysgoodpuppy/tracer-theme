@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1476" viewBox="0 0 1040 1476" role="img" aria-labelledby="title description">
+<title id="title">Tracer Light palette reference</title>
+<desc id="description">Current interface and syntax colors generated from themes/tracer-light-color-theme.json. Each swatch includes its source in a tooltip. Semantic colors and TextMate overrides are listed separately because language highlighting can differ.</desc>
+<rect width="1040" height="1476" fill="#FAFBFB"/>
+<g font-family="ui-monospace, Consolas, monospace" fill="#24323A">
+<text x="36" y="52" font-size="30" font-weight="700">TRACER LIGHT</text>
+<text x="36" y="82" fill="#52616A" font-size="14">themes/tracer-light-color-theme.json</text>
+<text x="36" y="105" fill="#52616A" font-size="13">Stable color IDs · hover a swatch for its JSON source</text>
+<text x="36" y="136" font-size="20" font-weight="700">Interface</text>
+<g transform="translate(36 156)">
+  <title>LIGHT#1 · colors.activityBar.background · #000000</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#000000" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Outer chrome</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#1 · #000000</text>
+</g>
+<g transform="translate(528 156)">
+  <title>LIGHT#2 · colors.editor.background · #FAFBFB</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#FAFBFB" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Editor background</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#2 · #FAFBFB</text>
+</g>
+<g transform="translate(36 234)">
+  <title>LIGHT#3 · colors.editor.foreground · #34414A</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#34414A" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Editor text</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#3 · #34414A</text>
+</g>
+<g transform="translate(528 234)">
+  <title>LIGHT#4 · colors.sideBar.background · #F1F3F3</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#F1F3F3" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Sidebar background</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#4 · #F1F3F3</text>
+</g>
+<g transform="translate(36 312)">
+  <title>LIGHT#5 · colors.button.background · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Accent / buttons</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#5 · #E4893F</text>
+</g>
+<g transform="translate(528 312)">
+  <title>LIGHT#6 · colors.editor.selectionBackground · #F2D3B8</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#F2D3B8" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Selection</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#6 · #F2D3B8</text>
+</g>
+<g transform="translate(36 390)">
+  <title>LIGHT#7 · colors.editor.lineHighlightBackground · #F3F6F6</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#F3F6F6" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Current line</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#7 · #F3F6F6</text>
+</g>
+<g transform="translate(528 390)">
+  <title>LIGHT#8 · colors.editorCursor.foreground · #9A4D15</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#9A4D15" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Cursor</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#8 · #9A4D15</text>
+</g>
+<g transform="translate(36 468)">
+  <title>LIGHT#9 · colors.editorError.foreground · #C23B47</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C23B47" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Error</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#9 · #C23B47</text>
+</g>
+<g transform="translate(528 468)">
+  <title>LIGHT#10 · colors.editorWarning.foreground · #A76B13</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#A76B13" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Warning</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#10 · #A76B13</text>
+</g>
+<g transform="translate(36 546)">
+  <title>LIGHT#11 · colors.editorInfo.foreground · #9A4D15</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#9A4D15" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Information</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#11 · #9A4D15</text>
+</g>
+<g transform="translate(528 546)">
+  <title>LIGHT#12 · colors.gitDecoration.addedResourceForeground · #247949</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#247949" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git added</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#12 · #247949</text>
+</g>
+<g transform="translate(36 624)">
+  <title>LIGHT#13 · colors.gitDecoration.modifiedResourceForeground · #346FAB</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#346FAB" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git modified</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#13 · #346FAB</text>
+</g>
+<g transform="translate(528 624)">
+  <title>LIGHT#14 · colors.gitDecoration.deletedResourceForeground · #B93642</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#B93642" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Git deleted</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#14 · #B93642</text>
+</g>
+<text x="36" y="732" font-size="20" font-weight="700">Semantic syntax</text>
+<g transform="translate(36 752)">
+  <title>LIGHT#15 · semanticTokenColors.comment · #78858B</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#78858B" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Comment</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#15 · #78858B</text>
+</g>
+<g transform="translate(528 752)">
+  <title>LIGHT#16 · semanticTokenColors.keyword · #ED4141</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#ED4141" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Keyword</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#16 · #ED4141</text>
+</g>
+<g transform="translate(36 830)">
+  <title>LIGHT#17 · semanticTokenColors.string · #387447</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#387447" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">String</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#17 · #387447</text>
+</g>
+<g transform="translate(528 830)">
+  <title>LIGHT#18 · semanticTokenColors.number · #24292F</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#24292F" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Number</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#18 · #24292F</text>
+</g>
+<g transform="translate(36 908)">
+  <title>LIGHT#19 · semanticTokenColors.function · #E4893F</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#E4893F" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Function</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#19 · #E4893F</text>
+</g>
+<g transform="translate(528 908)">
+  <title>LIGHT#20 · semanticTokenColors.type · #3B82F6</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#3B82F6" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Type</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#20 · #3B82F6</text>
+</g>
+<g transform="translate(36 986)">
+  <title>LIGHT#21 · semanticTokenColors.variable · #34414A</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#34414A" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Variable</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#21 · #34414A</text>
+</g>
+<g transform="translate(528 986)">
+  <title>LIGHT#22 · semanticTokenColors.variable.readonly · #EAA66E</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#EAA66E" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Readonly variable</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#22 · #EAA66E</text>
+</g>
+<g transform="translate(36 1064)">
+  <title>LIGHT#23 · semanticTokenColors.property · #3B82F6</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#3B82F6" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Property</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#23 · #3B82F6</text>
+</g>
+<g transform="translate(528 1064)">
+  <title>LIGHT#24 · semanticTokenColors.typeParameter · #9A5B13</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#9A5B13" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Type parameter</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#24 · #9A5B13</text>
+</g>
+<g transform="translate(36 1142)">
+  <title>LIGHT#25 · semanticTokenColors.operator · #FF7070</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#FF7070" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Operator</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#25 · #FF7070</text>
+</g>
+<g transform="translate(528 1142)">
+  <title>LIGHT#26 · semanticTokenColors.regexp · #A23E46</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#A23E46" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Regular expression</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#26 · #A23E46</text>
+</g>
+<text x="36" y="1250" font-size="20" font-weight="700">TextMate syntax overrides</text>
+<g transform="translate(36 1270)">
+  <title>LIGHT#27 · tokenColors.string.quoted · #B49C64</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#B49C64" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Quoted string</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#27 · #B49C64</text>
+</g>
+<g transform="translate(528 1270)">
+  <title>LIGHT#28 · tokenColors.support.variable · #96B63D</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#96B63D" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Built-in variable</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#28 · #96B63D</text>
+</g>
+<g transform="translate(36 1348)">
+  <title>LIGHT#29 · tokenColors.punctuation.section.block.begin · #C3C6C9</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#C3C6C9" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Delimiter</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#29 · #C3C6C9</text>
+</g>
+<g transform="translate(528 1348)">
+  <title>LIGHT#30 · tokenColors.punctuation.separator.comma · #4F5963</title>
+  <rect width="472" height="66" rx="8" fill="#FFFFFF" stroke="#D1D7DA"/>
+  <rect x="12" y="12" width="42" height="42" rx="5" fill="#4F5963" stroke="#D1D7DA"/>
+  <text x="68" y="27" font-size="15" font-weight="700">Comma / semicolon</text>
+  <text x="68" y="49" fill="#52616A" font-size="13">LIGHT#30 · #4F5963</text>
+</g>
+</g>
+</svg>

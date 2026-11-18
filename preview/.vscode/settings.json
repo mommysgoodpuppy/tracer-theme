@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Tracer Dark — Lobster",
+  "workbench.colorTheme": "Tracer Light",
   "editor.semanticHighlighting.enabled": "configuredByTheme",
   "[typescript]": {
     "editor.semanticHighlighting.enabled": "configuredByTheme"
